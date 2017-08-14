@@ -11,7 +11,7 @@ ruby RUBY_VERSION
 # Happy Jekylling!
 gem "jekyll", " ~> 3.4.0"
 
-gem "liquid", "4.0.0"
+gem "liquid", "~> 3.0.0"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 
