@@ -9,7 +9,7 @@ GEM
     ffi (1.9.18)
     ffi (1.9.18-x64-mingw32)
     forwardable-extended (2.6.0)
-    jekyll (3.5.0)
+    jekyll (3.5.2)
       addressable (~> 2.4)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
@@ -69,17 +69,17 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  jekyll (= 3.5.0)
+  jekyll (~> 3.5.0)
   jekyll-feed (~> 0.6)
   jekyll-gist (~> 1.4)
   jekyll-paginate (~> 1.1)
   jekyll-sitemap (~> 1.0)
-  liquid (= 4.0.0)
+  liquid (~> 4.0.0)
   liquid-md5
   tzinfo-data
 
 RUBY VERSION
-   ruby 2.4.1p111
+   ruby 2.2.4p230
 
 BUNDLED WITH
    1.15.3
