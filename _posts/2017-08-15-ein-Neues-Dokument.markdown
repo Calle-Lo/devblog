@@ -4,7 +4,7 @@ layout: [post, post-xml]
 # title is required.
 title:  "Ein neues Dokument"
 # date is required. If possible, also provide a time like: 2017-08-10 10:25:00.
-date:   2017-08-15 14:20:00 
+date:   2017-08-15 11:59:00 
 # If you are modifying an existing post, provide a date for it.
 modified_date: 
 # author must be your name used in the _data/authors.yml file
