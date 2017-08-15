@@ -18,4 +18,4 @@ tags: [New, Innovation]
 ---
 ## Ein neues Dokument
 
-Wir wollen hier die Innovation dieses Programmes zeigen.
+Wir wollen hier die Innovation dieses Programme zeigen.
