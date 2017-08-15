@@ -18,4 +18,3 @@ tags: [Digitalisierung, Banken]
 ---
 
 ## Ein neues Dokument
-dij
