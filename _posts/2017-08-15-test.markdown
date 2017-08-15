@@ -1,0 +1,3 @@
+##Test Entry
+
+Ein Dokument zum Testen der Methode copyGeneratedXmlFiles(List<DiffEntry> entries)
