@@ -4,7 +4,7 @@ layout: [post, post-xml]
 # title is required.
 title:  "New File Test"
 # date is required. If possible, also provide a time like: 2017-08-10 10:25:00.
-date:   2017-08-16 08:15:00 
+date:   2017-08-16 08:14:00 
 # If you are modifying an existing post, provide a date for it.
 modified_date: 
 # author must be your name used in the _data/authors.yml file
@@ -20,3 +20,4 @@ tags: [Digitalisierung, Banken]
 ## New File Test
 
 Ein neuer Test
+Die Zeit ist anders
