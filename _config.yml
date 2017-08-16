@@ -32,7 +32,7 @@ kramdown:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 # declare Timezone to make building possible
-timezone: 'Europe/Berlin'
+timezone: UTC+0200
 
 # Plugins
 plugins:
