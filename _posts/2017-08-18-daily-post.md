@@ -18,3 +18,6 @@ tags: [Digitalisierung, Banken]
 ---
 Ein Post für den heutigen Tag damit ich wieder pullen kann. 
 Ohne Änderungen wird nicht gepullt.
+
+Some changes
+
