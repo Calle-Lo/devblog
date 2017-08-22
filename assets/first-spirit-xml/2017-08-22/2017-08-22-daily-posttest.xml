@@ -3,9 +3,7 @@
     <document uid="9c160fced8b5cd9ae93be1d311f3452b">
         <field name="title"><![CDATA[Post for today]]></field>
         <field name="subline"><![CDATA[]]></field>
-        <field name="teaser"><![CDATA[<p>Ein Post für den heutigen Tag damit ich wieder pullen kann. 
-Ohne Änderungen wird nicht gepullt.</p>
-
+        <field name="teaser"><![CDATA[<p>In data wurde eine JSON-Datei generiert.</p>
 ]]></field>
         <field name="language_multi_keyword"><![CDATA[de]]></field>
         <field name="content_type_multi_keyword"><![CDATA[blog]]></field>
@@ -22,16 +20,13 @@ Ohne Änderungen wird nicht gepullt.</p>
         <field name="author_picture_stored_only"><![CDATA[https://shsanayei.github.io/devblog/assets/images/avatars/shahin.png]]></field>
         <field name="headlines"><![CDATA[Post for today]]></field>
         <field name="display_content"><![CDATA[<div class="i2-intro p-t-1">
-            <p>Ein Post für den heutigen Tag damit ich wieder pullen kann. 
-Ohne Änderungen wird nicht gepullt.</p>
-
+            <p>In data wurde eine JSON-Datei generiert.</p>
 </div>]]></field>
         <field name="content"><![CDATA[<div class="adesso-text-formate">
 <div class="row p-t-2">
 <div class="adesso-container">
 <div class="col-xl-8 adesso-center p-b-1 p-l-0 p-r-0">
-    <p>Some changes and more</p>
-
+    
 
 </div>
 </div>
