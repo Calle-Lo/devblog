@@ -22,5 +22,3 @@ In data wurde eine JSON-Datei generiert.
 
 Jeder liebt Pizza!
 
-Wer es nicht tut verpasst was. Aber jetzt kriegt man Hunger.
-
