@@ -18,5 +18,5 @@ tags: [Digitalisierung, Banken]
 ---
 In data wurde eine JSON-Datei generiert.
 
-##Pizza
+## Pizza
 
