@@ -16,8 +16,5 @@ categories: [Technologie]
 # tags are optional, but help to narrow down the subject of the blog post
 tags: [Digitalisierung, Banken]
 ---
-Ein Post für den heutigen Tag damit ich wieder pullen kann. 
-Ohne Änderungen wird nicht gepullt.
-
-Some changes and more
+In data wurde eine JSON-Datei generiert.
 
