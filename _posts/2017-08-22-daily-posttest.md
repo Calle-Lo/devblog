@@ -19,5 +19,7 @@ tags: [Digitalisierung, Banken]
 
 ## Pizza
 
-Jeder liebt Pizza!
+Jeder liebt Pizza! 
+
+Man kann Pizza echt überall bestellen wo man möchte!
 
