@@ -16,7 +16,6 @@ categories: [Technologie]
 # tags are optional, but help to narrow down the subject of the blog post
 tags: [Digitalisierung, Banken]
 ---
-In data wurde eine JSON-Datei generiert.
 
 ## Pizza
 
