@@ -20,3 +20,5 @@ tags: [Sonstiges, Happy]
 ## Happy Posting
 
 Heute ist ein neuer Tag und Mittwoch.
+
+Fröhliches schaffen und bearbeiten von Posts.
