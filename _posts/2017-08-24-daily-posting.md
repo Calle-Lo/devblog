@@ -4,7 +4,7 @@ layout: [post, post-xml]
 # title is required.
 title:  "Extra Post"
 # date is required. If possible, also provide a time like: 2017-08-10 10:25:00.
-date:   2017-08-23 10:57
+date:   2017-08-24 11:08
 # If you are modifying an existing post, provide a date for it.
 modified_date: 
 # author must be your name used in the _data/authors.yml file
