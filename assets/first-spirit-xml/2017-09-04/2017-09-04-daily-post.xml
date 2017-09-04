@@ -4,6 +4,7 @@
         <field name="title"><![CDATA[New Daily Post]]></field>
         <field name="subline"><![CDATA[]]></field>
         <field name="teaser"><![CDATA[<p>Das ist ein neuer Post um zu schauen ob mein Jekyll2cms noch funktioniert!</p>
+
 ]]></field>
         <field name="language_multi_keyword"><![CDATA[de]]></field>
         <field name="content_type_multi_keyword"><![CDATA[blog]]></field>
@@ -21,12 +22,14 @@
         <field name="headlines"><![CDATA[New Daily Post]]></field>
         <field name="display_content"><![CDATA[<div class="i2-intro p-t-1">
             <p>Das ist ein neuer Post um zu schauen ob mein Jekyll2cms noch funktioniert!</p>
+
 </div>]]></field>
         <field name="content"><![CDATA[<div class="adesso-text-formate">
 <div class="row p-t-2">
 <div class="adesso-container">
 <div class="col-xl-8 adesso-center p-b-1 p-l-0 p-r-0">
-    
+    <p>Jetzt gibt es zusätzlich noch eine kleine Modifizierung des Blogposts!</p>
+
 </div>
 </div>
 </div>]]></field>
