@@ -19,8 +19,8 @@ permalink: blog-posts/:year-:month-:day/:title.html
 # paginate_path: /pages/page:num/
 
 # Serving
-baseurl: "/devblog" # the subpath of your site, e.g. /blog
-url: "https://shsanayei.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://localhost:4000" # the base hostname & protocol for your site
 github_username: "adessoAG"
 
 # Build settings
@@ -29,10 +29,87 @@ kramdown:
   syntax_highlighter_opts:
     disable : true
   auto_ids: true
+  header_offset: 3
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 # declare Timezone to make building possible
 timezone: Europe/Berlin
+
+#Pagination
+paginate: 10
+
+mini_magick:
+    fullScreen_1600:
+        source: /assets/images/original/
+        destination: /assets/images/FullScreenPicture/resolution1600
+        crop: "1920x1070+0+0"
+        gravity: "center"
+    fullScreen_1440:
+        source: /assets/images/original/
+        destination: /assets/images/FullScreenPicture/resolution1440
+        crop: "1400x1090+232+0"
+        gravity: "center"
+    fullScreen_1200:
+        source: /assets/images/original/
+        destination: /assets/images/FullScreenPicture/resolution1200
+        crop: "1440x1020+212+30"
+        gravity: "center"
+    fullScreen_1024:
+        source: /assets/images/original/
+        destination: /assets/images/FullScreenPicture/resolution1024
+        crop: "1536x1200+164-60"
+        gravity: "center"
+    fullScreen_768:
+        source: /assets/images/original/
+        destination: /assets/images/FullScreenPicture/resolution768
+        crop: "1152x940+370+65"
+        gravity: "center"
+    fullScreen_600:
+        source: /assets/images/original/
+        destination: /assets/images/FullScreenPicture/resolution600
+        resize: "600x470+786+330"
+        gravity: "center"
+    fullScreen_480:
+        source: /assets/images/original/
+        destination: /assets/images/FullScreenPicture/resolution480
+        crop: "480x615+758+200"
+        gravity: "center"
+    fullScreen_0:
+        source: /assets/images/original/
+        destination: /assets/images/FullScreenPicture/resolution0
+        crop: "640x864+758+133"
+        gravity: "center"
+    PicturesSideBySide_1600:
+        source: /assets/images/original/
+        destination: /assets/images/PicturesSideBySide/resolution1600
+        crop: "640x864+758+133"
+        gravity: "center"
+    PicturesSideBySide_1440:
+        source: /assets/images/original/
+        destination: /assets/images/PicturesSideBySide/resolution1440
+        crop: "640x864+758+133"
+        gravity: "center"
+    PicturesSideBySide_480:
+        source: /assets/images/original/
+        destination: /assets/images/PicturesSideBySide/resolution480
+        crop: "640x864+758+133"
+        gravity: "center"
+    TextPictureParagraph_1600:
+        source: /assets/images/original/
+        destination: /assets/images/TextPictureParagraph/resolution1600
+        crop: "640x864+758+133"
+        gravity: "center"
+    TextPictureParagraph_1440:
+        source: /assets/images/original/
+        destination: /assets/images/TextPictureParagraph/resolution1440
+        crop: "640x864+758+133"
+        gravity: "center"
+    TextPictureParagraph_480:
+        source: /assets/images/original/
+        destination: /assets/images/TextPictureParagraph/resolution480
+        crop: "640x864+758+133"
+        gravity: "center"
+    
 
 # Plugins
 plugins:
@@ -41,3 +118,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-minimagick
+  
+exclude:
+  - assets/first-spirit-xml
+  - examples/
