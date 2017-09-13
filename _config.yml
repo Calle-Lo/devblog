@@ -40,76 +40,90 @@ paginate: 10
 
 mini_magick:
     fullScreen_1600:
-        source: /assets/images/original/
+        source: assets/images/originals
         destination: /assets/images/FullScreenPicture/resolution1600
-        crop: "1920x1070+0+0"
-        gravity: "center"
+        resize: "1920x1070"
+        gravity: "Center"
+        crop: "1920x1070"
     fullScreen_1440:
-        source: /assets/images/original/
+        source: assets/images/originals
         destination: /assets/images/FullScreenPicture/resolution1440
-        crop: "1400x1090+232+0"
-        gravity: "center"
+        resize: "x1090"
+        gravity: "Center"
+        crop: "1400x1090"
     fullScreen_1200:
-        source: /assets/images/original/
+        source: assets/images/originals
         destination: /assets/images/FullScreenPicture/resolution1200
-        crop: "1440x1020+212+30"
-        gravity: "center"
+        resize: "x1020"
+        gravity: "Center"
+        crop: "1440x1020"
     fullScreen_1024:
-        source: /assets/images/original/
+        source: assets/images/originals
         destination: /assets/images/FullScreenPicture/resolution1024
-        crop: "1536x1200+164-60"
-        gravity: "center"
+        resize: "x1200"
+        gravity: "Center"
+        crop: "1536x1200"
     fullScreen_768:
-        source: /assets/images/original/
+        source: assets/images/originals
         destination: /assets/images/FullScreenPicture/resolution768
-        crop: "1152x940+370+65"
-        gravity: "center"
+        resize: "x940"
+        gravity: "Center"
+        crop: "1152x940"
     fullScreen_600:
-        source: /assets/images/original/
+        source: assets/images/originals
         destination: /assets/images/FullScreenPicture/resolution600
-        resize: "600x470+786+330"
-        gravity: "center"
+        resize: "x470"
+        gravity: "Center"
+        crop: "600x470"
     fullScreen_480:
-        source: /assets/images/original/
+        source: assets/images/originals
         destination: /assets/images/FullScreenPicture/resolution480
-        crop: "480x615+758+200"
-        gravity: "center"
+        resize: "x615"
+        gravity: "Center"
+        crop: "480x615"
     fullScreen_0:
-        source: /assets/images/original/
+        source: assets/images/originals
         destination: /assets/images/FullScreenPicture/resolution0
-        crop: "640x864+758+133"
-        gravity: "center"
+        gravity: "Center"
+        resize: "x864"
+        crop: "640x864+100+0"
     PicturesSideBySide_1600:
-        source: /assets/images/original/
+        source: assets/images/originals
         destination: /assets/images/PicturesSideBySide/resolution1600
-        crop: "640x864+758+133"
-        gravity: "center"
+        resize: "1700x"
+        gravity: "Center"
+        crop: "1700x850"
     PicturesSideBySide_1440:
-        source: /assets/images/original/
+        source: assets/images/originals
         destination: /assets/images/PicturesSideBySide/resolution1440
-        crop: "640x864+758+133"
-        gravity: "center"
+        resize: "850x"
+        gravity: "Center"
+        crop: "850x425"
     PicturesSideBySide_480:
-        source: /assets/images/original/
+        source: assets/images/originals
         destination: /assets/images/PicturesSideBySide/resolution480
-        crop: "640x864+758+133"
-        gravity: "center"
+        resize: "686x" 
+        gravity: "Center"
+        crop: "686x343"
     TextPictureParagraph_1600:
-        source: /assets/images/original/
+        source: assets/images/originals
         destination: /assets/images/TextPictureParagraph/resolution1600
-        crop: "640x864+758+133"
-        gravity: "center"
+        resize: "x548"
+        gravity: "Center"
+        crop: "840x548+0+0"
     TextPictureParagraph_1440:
-        source: /assets/images/original/
+        source: assets/images/originals
         destination: /assets/images/TextPictureParagraph/resolution1440
-        crop: "640x864+758+133"
-        gravity: "center"
+        resize: "x274"
+        gravity: "Center"
+        crop: "410x274"
     TextPictureParagraph_480:
-        source: /assets/images/original/
+        source: assets/images/originals
         destination: /assets/images/TextPictureParagraph/resolution480
-        crop: "640x864+758+133"
-        gravity: "center"
-    
+        resize: "x231"
+        gravity: "Center"
+        crop: "343x231+0+0"
+            
 
 # Plugins
 plugins:
@@ -118,8 +132,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jekyll-minimagick
-  
+
 exclude:
   - assets/first-spirit-xml
   - examples/
