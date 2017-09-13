@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<documents>
+    <document uid="358ba439fb47fa3b84aafe86764f485f">
+        <field name="title"><![CDATA[New Daily Post]]></field>
+        <field name="subline"><![CDATA[]]></field>
+        <field name="teaser"><![CDATA[<p>Das ist doch ein schöner Tag um das jekyll2cms mit den neuen Regex eigenschaften zu testen. 
+Mal sehen ob die übernommen worden. A propros ein Post sollte so geschrieben werden wie der jetzt geschrieben wird.</p>
+
+]]></field>
+        <field name="language_multi_keyword"><![CDATA[de]]></field>
+        <field name="content_type_multi_keyword"><![CDATA[blog]]></field>
+        <field name="mime_type_multi_keyword"><![CDATA[text/html]]></field>
+        <field name="category_multi_keyword"><![CDATA[Sonstiges]]></field>
+        <field name="tag_multi_keyword"><![CDATA[Sonstiges]]></field>
+        <field name="tag_multi_keyword"><![CDATA[Extra]]></field>
+        <field name="date_date"><![CDATA[2017-09-07T14:47:00+02:00]]></field>
+        <field name="date_1"><![CDATA[1504788420]]></field>
+        <field name="change_date"><![CDATA[1504788420]]></field>
+        <field name="author_first_name"><![CDATA[Shahin]]></field>
+        <field name="author_last_name"><![CDATA[Sanayei]]></field>
+        <field name="author_id"><![CDATA[shsanayei]]></field>
+        <field name="author_picture_stored_only"><![CDATA[http://localhost:4000/assets/images/avatars/shahin.png]]></field>
+        <field name="headlines"><![CDATA[New Daily Post]]></field>
+        <field name="display_content"><![CDATA[<div class="i2-intro p-t-1">
+            <p>Das ist doch ein schöner Tag um das jekyll2cms mit den neuen Regex eigenschaften zu testen. 
+Mal sehen ob die übernommen worden. A propros ein Post sollte so geschrieben werden wie der jetzt geschrieben wird.</p>
+
+</div>]]></field>
+        <field name="content"><![CDATA[<div class="adesso-text-formate">
+<div class="row p-t-2">
+<div class="adesso-container">
+<div class="col-xl-8 adesso-center p-b-1 p-l-0 p-r-0">
+    <h5 id="erst-jetzt-kommt-die-nächste-Überschrift">Erst jetzt kommt die nächste Überschrift</h5>
+
+<p>Eigentlich müsste ich doch etwas posten aber wieso klappt das nicht?
+Okay es lang am menschlichen Versagen, dass es zuerst nicht funktioniert hat.</p>
+<ul>
+  <li>Noch bisschen extra</li>
+  <li>Mehr</li>
+</ul>
+
+</div>
+</div>
+</div>]]></field>
+    </document>
+</documents>
