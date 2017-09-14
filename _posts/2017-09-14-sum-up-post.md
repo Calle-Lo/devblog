@@ -24,3 +24,5 @@ sowie diese in den assets Ordner rüber kopiert.
 Des Weiteren werden alle Bilder, die im _site Ordner generiert werden, rüber in den assets Ordner kopiert, so dass man extern drauf zu greifen kann.
 
 # Übersichtilichkeit ist das A und O
+
+1. Einiges ist anders
