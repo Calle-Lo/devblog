@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<documents>
+    <document uid="d8b1538b45d24b013abd2c5ef105c8d9">
+        <field name="title"><![CDATA[Sum up Post]]></field>
+        <field name="subline"><![CDATA[]]></field>
+        <field name="teaser"><![CDATA[<p>Nach langem hin und her wurde das Jekyll2cms nun endgültig optimiert.
+Es wurden sinnvolle Klassen erstellt um den Programmcode übersichtlicher zu gestalten. 
+Das Jekyll2cms besteht nun aus insgesamt 9 verschiedenen Klassen, die sich den Devblog holen, die XML-Dateien für First-Spirit generiert
+sowie diese in den assets Ordner rüber kopiert. 
+Des Weiteren werden alle Bilder, die im _site Ordner generiert werden, rüber in den assets Ordner kopiert, so dass man extern drauf zu greifen kann.</p>
+
+]]></field>
+        <field name="language_multi_keyword"><![CDATA[de]]></field>
+        <field name="content_type_multi_keyword"><![CDATA[blog]]></field>
+        <field name="mime_type_multi_keyword"><![CDATA[text/html]]></field>
+        <field name="category_multi_keyword"><![CDATA[Sonstiges]]></field>
+        <field name="tag_multi_keyword"><![CDATA[Sonstiges]]></field>
+        <field name="tag_multi_keyword"><![CDATA[Extra]]></field>
+        <field name="date_date"><![CDATA[2017-09-14T12:35:00+02:00]]></field>
+        <field name="date_1"><![CDATA[1505385300]]></field>
+        <field name="change_date"><![CDATA[1505385300]]></field>
+        <field name="author_first_name"><![CDATA[Shahin]]></field>
+        <field name="author_last_name"><![CDATA[Sanayei]]></field>
+        <field name="author_id"><![CDATA[shsanayei]]></field>
+        <field name="author_picture_stored_only"><![CDATA[http://localhost:4000/assets/images/avatars/shahin.png]]></field>
+        <field name="headlines"><![CDATA[Sum up Post]]></field>
+        <field name="display_content"><![CDATA[<div class="i2-intro p-t-1">
+            <p>Nach langem hin und her wurde das Jekyll2cms nun endgültig optimiert.
+Es wurden sinnvolle Klassen erstellt um den Programmcode übersichtlicher zu gestalten. 
+Das Jekyll2cms besteht nun aus insgesamt 9 verschiedenen Klassen, die sich den Devblog holen, die XML-Dateien für First-Spirit generiert
+sowie diese in den assets Ordner rüber kopiert. 
+Des Weiteren werden alle Bilder, die im _site Ordner generiert werden, rüber in den assets Ordner kopiert, so dass man extern drauf zu greifen kann.</p>
+
+</div>]]></field>
+        <field name="content"><![CDATA[<div class="adesso-text-formate">
+<div class="row p-t-2">
+<div class="adesso-container">
+<div class="col-xl-8 adesso-center p-b-1 p-l-0 p-r-0">
+    <h4 id="Übersichtilichkeit-ist-das-a-und-o">Übersichtilichkeit ist das A und O</h4>
+
+</div>
+</div>
+</div>]]></field>
+    </document>
+</documents>
