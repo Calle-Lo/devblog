@@ -26,3 +26,4 @@ Des Weiteren werden alle Bilder, die im _site Ordner generiert werden, rüber in
 # Übersichtilichkeit ist das A und O
 
 1. Einiges ist anders
+![Löwe](/assets/images/originals/löwe/lion.jpg)
