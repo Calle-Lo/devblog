@@ -37,10 +37,10 @@ timezone: Europe/Berlin
 
 #Pagination
 paginate: 10
-
+        
 mini_magick:
     fullScreen_1600:
-        source: assets/images/originals
+        source: assets/images/originals/löwe
         destination: /assets/images/Cropped_Resized/FullScreenPicture/resolution1600
         resize: "1920x1070"
         gravity: "Center"
@@ -124,7 +124,6 @@ mini_magick:
         gravity: "Center"
         crop: "343x231+0+0"
             
-
 # Plugins
 plugins:
   - liquid-md5

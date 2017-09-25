@@ -19,7 +19,7 @@
         {%- endfor -%}
     {% endif %}
         <field name="date_date"><![CDATA[{{page.date | date_to_xmlschema}}]]></field>
-        <field name="date_1"><![CDATA[{{page.date | date: "%s"}}]]></field>
+        <field name="date_1"><![CDATA[{{page.date | date: "%s%L"}}]]></field>
         <field name="change_date"><![CDATA[
             {%- if page.modified_date -%} 
             {{page.modified_date | date: "%s"}}
