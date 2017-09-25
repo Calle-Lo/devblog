@@ -16,11 +16,11 @@ david:
   avatar_url: /assets/images/avatars/david.png
   github: https://github.com/daklassen
 
-johndoe:
-  first_name: John
-  last_name: Doe
-  github_username: johndoe
-  email: johndoe@email.com
-  bio: "2-3 Sätze als Kurzbiographie, die als Beschreibung unter deinen Blog-Posts erscheinen."
-  avatar_url: /assets/images/avatars/johndoe.png
-  github: https://github.com/johndoe
+thombergs:
+  first_name: Tom
+  last_name: Hombergs
+  github_username: thombergs
+  email: hombergs@adesso.de
+  bio: "Tom Hombergs ist Softwarearchitekt und Teamleiter bei adesso in Dortmund und entwickelt Softwarearchitekturen für unsere Kunden."
+  avatar_url: /assets/images/avatars/thombergs.jpg
+  github: https://github.com/thombergs

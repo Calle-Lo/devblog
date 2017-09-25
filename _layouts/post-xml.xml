@@ -22,9 +22,9 @@
         <field name="date_1"><![CDATA[{{page.date | date: "%s%L"}}]]></field>
         <field name="change_date"><![CDATA[
             {%- if page.modified_date -%} 
-            {{page.modified_date | date: "%s"}}
+            {{page.modified_date | date: "%s%L"}}
             {%- else -%}
-            {{page.date | date: "%s"}}
+            {{page.date | date: "%s%L"}}
             {%- endif -%}
             ]]></field>
         <field name="author_first_name"><![CDATA[{{author.first_name}}]]></field>

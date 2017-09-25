@@ -2,9 +2,9 @@
 # layout is required. Don't change.
 layout: [post, post-xml]
 # title is required.
-title:  "New Daily Post"
+title:  "Sum up Post"
 # date is required. If possible, also provide a time like: 2017-08-10 10:25:00.
-date:   2017-09-05 12:43
+date:   2017-09-14 12:35
 # If you are modifying an existing post, provide a date for it.
 modified_date: 
 # author must be your name used in the _data/authors.yml file
@@ -17,10 +17,13 @@ categories: [Sonstiges]
 tags: [Sonstiges, Extra]
 ---
 
-Das ist doch ein schöner Tag um das jekyll2cms mit den neuen Regex eigenschaften zu testen. 
-Mal sehen ob die übernommen worden. A propros ein Post sollte so geschrieben werden wie der jetzt geschrieben wird.
+Nach langem hin und her wurde das Jekyll2cms nun endgültig optimiert.
+Es wurden sinnvolle Klassen erstellt um den Programmcode übersichtlicher zu gestalten. 
+Das Jekyll2cms besteht nun aus insgesamt 9 verschiedenen Klassen, die sich den Devblog holen, die XML-Dateien für First-Spirit generiert
+sowie diese in den assets Ordner rüber kopiert. 
+Des Weiteren werden alle Bilder, die im _site Ordner generiert werden, rüber in den assets Ordner kopiert, so dass man extern drauf zu greifen kann.
 
-## Erst jetzt kommt die nächste Überschrift
+# Übersichtilichkeit ist das A und O
 
-Eigentlich müsste ich doch etwas posten aber wieso klappt das nicht?
-Okay es lang am menschlichen Versagen, dass es zuerst nicht funktioniert hat.
+1. Einiges ist anders
+![Löwe](/assets/images/originals/löwe/lion.jpg)
